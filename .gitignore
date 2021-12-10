@@ -245,3 +245,7 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# build artifacts
+/package
+*.zip
